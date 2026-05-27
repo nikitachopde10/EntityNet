@@ -1,0 +1,11 @@
+{
+  "id": "N011",
+  "title": "EU Designates Volkov Over Russia Activity",
+  "body": "The European Union today added Russian industrialist Olga Volkov and her flagship energy firm, Volkov Industries, to its consolidated sanctions list under restrictive measures relating to actions undermining the territorial integrity of Ukraine. Volkov has long-standing business ties with fellow oligarch Viktor Petrov, including co-investments in several international holding structures, EU officials said. Volkov Industries did not respond to a request for comment.",
+  "published_date": "2022-09-12",
+  "source": "Bloomberg",
+  "url": "https://example.com/synthetic/n011",
+  "mentioned_entity_ids": ["P006", "C018", "P001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "eu", "russia"]
+}

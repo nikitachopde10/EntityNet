@@ -1,0 +1,11 @@
+{
+  "id": "N004",
+  "title": "Cypriot Trustee Markov Named in Petrov Asset Probe",
+  "body": "Elena Markov, a Cyprus-based trustee with long-standing ties to the family of sanctioned Russian magnate Viktor Petrov, has been named in a fresh asset-tracing probe, two officials familiar with the matter said. Markov controls Kestrel Maritime and holds a 50% stake in Atlas Shipping, which is also 40% owned by Petrov Holdings. The arrangement, observers say, is consistent with a layered ownership pattern designed to obscure ultimate beneficial ownership. Markov could not be reached for comment.",
+  "published_date": "2023-06-09",
+  "source": "Bloomberg",
+  "url": "https://example.com/synthetic/n004",
+  "mentioned_entity_ids": ["P012", "C014", "C019", "C001", "P001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "aml", "beneficial-ownership", "cyprus"]
+}

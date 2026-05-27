@@ -1,0 +1,11 @@
+{
+  "id": "N002",
+  "title": "Delta Energy Faces Questions Over Holding-Company Ownership",
+  "body": "Houston-based Delta Energy Solutions is facing fresh scrutiny over its corporate-ownership structure. Public filings show that Delta Energy is 51% owned by Iron Mountain Holdings, a Delaware-based holding company. According to subsequent filings, Iron Mountain Holdings is itself 60% owned by Petrov Holdings, the Russian conglomerate added to the US sanctions list in 2022. Compliance attorneys note that this two-step ownership chain may trigger the OFAC 50% rule, under which any entity owned 50% or more, directly or indirectly, by sanctioned persons is itself blocked. Delta Energy did not respond to a request for comment.",
+  "published_date": "2023-08-14",
+  "source": "Reuters",
+  "url": "https://example.com/synthetic/n002",
+  "mentioned_entity_ids": ["C004", "C002", "C001", "P001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "aml", "ownership", "50-percent-rule"]
+}

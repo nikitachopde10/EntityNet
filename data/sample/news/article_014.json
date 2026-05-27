@@ -1,0 +1,11 @@
+{
+  "id": "N014",
+  "title": "Treasury Sanctions Senior Russian Banker Ivanov",
+  "body": "OFAC today added Dmitri Ivanov, a senior executive in the Russian financial sector, to the Specially Designated Nationals list under Executive Order 13662. Ivanov serves as a director of Sokolov Capital, the Russian bank sanctioned earlier this year. The designation reflects continued US efforts to constrain the Russian banking sector, Treasury officials said.",
+  "published_date": "2023-11-02",
+  "source": "Treasury Wire",
+  "url": "https://example.com/synthetic/n014",
+  "mentioned_entity_ids": ["P008", "C005"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "ofac", "russia", "banking"]
+}

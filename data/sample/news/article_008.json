@@ -1,0 +1,11 @@
+{
+  "id": "N008",
+  "title": "Chen Tech Group Added to US Entity List",
+  "body": "The U.S. Bureau of Industry and Security today added Chen Tech Group, a Chinese electronics manufacturer, to the Entity List, restricting the firm's access to controlled US technologies. The Bureau cited activities contrary to US national security. Chen Tech is wholly owned by founder Chen Wei, who was also added to the list. The action does not appear to affect Robert Chen Ventures, a separately owned US venture firm founded by Chen Wei's cousin, although industry observers expect compliance scrutiny.",
+  "published_date": "2020-08-17",
+  "source": "Reuters",
+  "url": "https://example.com/synthetic/n008",
+  "mentioned_entity_ids": ["C016", "P005", "C017", "P011"],
+  "sentiment": "very_negative",
+  "risk_tags": ["entity-list", "export-controls", "china"]
+}

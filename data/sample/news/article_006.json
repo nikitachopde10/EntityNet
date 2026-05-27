@@ -1,0 +1,11 @@
+{
+  "id": "N006",
+  "title": "UK Designates Al-Mansoori Over Terror-Finance Concerns",
+  "body": "The United Kingdom's HM Treasury today added Hassan Al-Mansoori and his flagship trade-finance firm, Mansoori Trading Co, to the UK consolidated sanctions list under counter-terrorism authorities. Officials cited concerns over the channelling of trade-finance flows. Al-Mansoori's cousin, Karim Hassan, currently serves as a director of Gulf Trading Ltd, a separate UAE entity. UK officials emphasised that Gulf Trading is not itself sanctioned but cautioned counterparties to perform enhanced due diligence.",
+  "published_date": "2019-11-15",
+  "source": "Reuters",
+  "url": "https://example.com/synthetic/n006",
+  "mentioned_entity_ids": ["P003", "C010", "P015", "C011"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "uk-hmt", "terror-finance", "trade-finance"]
+}

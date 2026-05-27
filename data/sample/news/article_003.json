@@ -1,0 +1,11 @@
+{
+  "id": "N003",
+  "title": "Falcon Industries Director Also Sits on Sanctioned-Linked Holding Board",
+  "body": "Michael Brown, a long-serving director of US industrial firm Falcon Industries, also holds a board seat at Iron Mountain Holdings, the Delaware-based holding company whose ultimate beneficial owner is sanctioned Russian magnate Viktor Petrov, according to corporate filings reviewed by the Financial Times. Brown's dual directorship raises questions for Falcon's compliance program, particularly given Iron Mountain's exposure to OFAC's 50% rule. Neither Brown nor Falcon Industries responded to requests for comment.",
+  "published_date": "2023-10-22",
+  "source": "Financial Times",
+  "url": "https://example.com/synthetic/n003",
+  "mentioned_entity_ids": ["P017", "C006", "C002", "P001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "kyc", "director-overlap", "russia"]
+}

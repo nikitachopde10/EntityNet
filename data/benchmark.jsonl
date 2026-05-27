@@ -1,0 +1,50 @@
+{"id": "Q001", "text": "Is Viktor Petrov on any sanctions lists?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["P001", "S001"]}
+{"id": "Q002", "text": "Is Petrov Holdings sanctioned?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C001", "S002"]}
+{"id": "Q003", "text": "What sanctions are imposed on Sokolov Capital?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C005", "S006"]}
+{"id": "Q004", "text": "Is Aleksei Sokolov sanctioned by OFAC?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["P004", "S005"]}
+{"id": "Q005", "text": "Is Chen Tech Group on the US Entity List?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C016", "S008"]}
+{"id": "Q006", "text": "What sanctions are imposed on Mansoori Trading Co?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C010", "S013"]}
+{"id": "Q007", "text": "Is Maria Alvarez on any EU sanctions list?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["P002", "S003"]}
+{"id": "Q008", "text": "Is Volkov Industries sanctioned by the EU?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C018", "S010"]}
+{"id": "Q009", "text": "Is Dmitri Ivanov on OFAC's SDN list?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["P008", "S012"]}
+{"id": "Q010", "text": "Is Ahmed Khalil designated by Treasury?", "category": "direct_sanctions", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["P007", "S011"]}
+{"id": "Q011", "text": "Who is the ultimate beneficial owner of Delta Energy Solutions through its ownership chain?", "category": "ownership_chain", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C004", "C002", "C001", "P001"]}
+{"id": "Q012", "text": "Through what ownership chain is Iron Mountain Holdings connected to a Russian sanctioned party?", "category": "ownership_chain", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C002", "C001", "P001"]}
+{"id": "Q013", "text": "Is Delta Energy Solutions exposed to sanctioned Russian ownership?", "category": "ownership_chain", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C004", "C002", "C001", "P001"]}
+{"id": "Q014", "text": "What are the parent companies of Iron Mountain Holdings via ownership?", "category": "ownership_chain", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C002", "C001", "C005"]}
+{"id": "Q015", "text": "Is Atlas Shipping owned by sanctioned parties through its ownership structure?", "category": "ownership_chain", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C019", "C001", "P001"]}
+{"id": "Q016", "text": "Who owns Kestrel Maritime through ownership records?", "category": "ownership_chain", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C014", "P012"]}
+{"id": "Q017", "text": "Does Sokolov Capital hold a stake in any holding company?", "category": "ownership_chain", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C005", "C002"]}
+{"id": "Q018", "text": "What is the ownership structure of Volkov Industries?", "category": "ownership_chain", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C018", "P006"]}
+{"id": "Q019", "text": "Who controls Chen Tech Group?", "category": "ownership_chain", "hops": 1, "difficulty": "easy", "ground_truth_ids": ["C016", "P005"]}
+{"id": "Q020", "text": "Is Petrov Holdings the parent of any operating company through ownership chains?", "category": "ownership_chain", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C001", "C002", "C019", "C004"]}
+{"id": "Q021", "text": "What companies are partly owned by Elena Markov in her holdings?", "category": "ownership_chain", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["P012", "C014", "C019"]}
+{"id": "Q022", "text": "Is Delta Energy Solutions connected to Viktor Petrov through any ownership chain?", "category": "ownership_chain", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C004", "C002", "C001", "P001"]}
+{"id": "Q023", "text": "Which companies share a director with Iron Mountain Holdings?", "category": "hidden_connection", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C002", "P017", "C006"]}
+{"id": "Q024", "text": "Does Falcon Industries share any directors with sanctioned-linked companies?", "category": "hidden_connection", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C006", "P017", "C002"]}
+{"id": "Q025", "text": "What companies share a director with Apex Logistics?", "category": "hidden_connection", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C007", "P009", "C003"]}
+{"id": "Q026", "text": "Are there any director overlaps involving Falcon Industries that suggest hidden risk?", "category": "hidden_connection", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C006", "P017", "C002"]}
+{"id": "Q027", "text": "Which two companies share director Sarah Mitchell on their boards?", "category": "hidden_connection", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["P010", "C008", "C013"]}
+{"id": "Q028", "text": "Who is connected to both BlueWave Tech and Lumen Analytics via shared board members?", "category": "hidden_connection", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["P014", "C008", "C015"]}
+{"id": "Q029", "text": "What family ties link Robert Chen Ventures to a US-sanctioned-listed entity?", "category": "hidden_connection", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C017", "P011", "P005", "C016"]}
+{"id": "Q030", "text": "Through what family connection is Robert Chen Ventures linked to entity-listed Chen Tech Group?", "category": "hidden_connection", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C017", "P011", "P005", "C016"]}
+{"id": "Q031", "text": "Are there family relatives connecting Gulf Trading Ltd to UK-sanctioned Hassan Al-Mansoori?", "category": "hidden_connection", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C011", "P015", "P003", "C010"]}
+{"id": "Q032", "text": "What companies share board members with Crescent Capital Partners?", "category": "hidden_connection", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C003", "P009", "C007", "P013"]}
+{"id": "Q033", "text": "Does Falcon Industries have any indirect sanctions exposure through its connections?", "category": "risk_propagation", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C006", "P017", "C002", "C001", "P001"]}
+{"id": "Q034", "text": "Does Phoenix Resources have indirect sanctions exposure through its business partners?", "category": "risk_propagation", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C020", "C011", "P015", "P003"]}
+{"id": "Q035", "text": "Is Robert Chen Ventures connected to any US-entity-listed parties through family or business links?", "category": "risk_propagation", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C017", "P011", "P005", "C016"]}
+{"id": "Q036", "text": "Does Gulf Trading Ltd have indirect counter-terror-finance exposure via its connections?", "category": "risk_propagation", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C011", "P015", "P003"]}
+{"id": "Q037", "text": "What is the indirect connection path from Falcon Industries to Petrov Holdings via shared directors?", "category": "risk_propagation", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C006", "P017", "C002", "C001"]}
+{"id": "Q038", "text": "Does Crescent Capital Partners have any risk exposure or sanctions connections?", "category": "risk_propagation", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C003"]}
+{"id": "Q039", "text": "Does Apex Logistics have any indirect sanctions exposure?", "category": "risk_propagation", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C007"]}
+{"id": "Q040", "text": "What is Helix Bio's risk exposure profile?", "category": "risk_propagation", "hops": 2, "difficulty": "medium", "ground_truth_ids": ["C012"]}
+{"id": "Q041", "text": "Does Kestrel Maritime have indirect Russian connections through its owner?", "category": "risk_propagation", "hops": 2, "difficulty": "hard", "ground_truth_ids": ["C014", "P012", "P001"]}
+{"id": "Q042", "text": "How is Phoenix Resources connected through ownership or partner exposure to UK-sanctioned Al-Mansoori?", "category": "risk_propagation", "hops": 3, "difficulty": "hard", "ground_truth_ids": ["C020", "C011", "P015", "P003"]}
+{"id": "Q043", "text": "What allegations have been reported in the media about Delta Energy Solutions?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C004", "N002"]}
+{"id": "Q044", "text": "What news articles have been reported about Falcon Industries?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C006", "N003", "N009"]}
+{"id": "Q045", "text": "What adverse media exists about Iron Mountain Holdings?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C002", "N002", "N003", "N005"]}
+{"id": "Q046", "text": "What press coverage discusses Robert Chen Ventures?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C017", "N008", "N009"]}
+{"id": "Q047", "text": "What news reports mention Gulf Trading Ltd?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C011", "N006", "N007"]}
+{"id": "Q048", "text": "Has Phoenix Resources been covered in adverse media reports?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C020", "N007"]}
+{"id": "Q049", "text": "What media mentions exist for Elena Markov in news articles?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["P012", "N004"]}
+{"id": "Q050", "text": "What press coverage discusses Volkov Industries?", "category": "adverse_media", "hops": 1, "difficulty": "medium", "ground_truth_ids": ["C018", "N011"]}

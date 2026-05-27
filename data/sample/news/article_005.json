@@ -1,0 +1,11 @@
+{
+  "id": "N005",
+  "title": "Sokolov Capital Hit With Sectoral Sanctions",
+  "body": "OFAC today designated Russian financial-services firm Sokolov Capital under Executive Order 13662, citing the bank's role in Russia's financial-services sector. Sokolov Capital's founder and majority shareholder, Aleksei Sokolov, was simultaneously added to the SDN list. According to filings, Sokolov Capital also holds a 15% minority stake in Iron Mountain Holdings, a Delaware vehicle previously identified in connection with the Petrov network. Treasury officials said the designation reflects ongoing efforts to constrain the Russian financial sector.",
+  "published_date": "2023-02-24",
+  "source": "Treasury Wire",
+  "url": "https://example.com/synthetic/n005",
+  "mentioned_entity_ids": ["P004", "C005", "C002", "P001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "ofac", "russia", "banking"]
+}

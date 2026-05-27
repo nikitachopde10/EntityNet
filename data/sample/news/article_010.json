@@ -1,0 +1,11 @@
+{
+  "id": "N010",
+  "title": "Crescent Capital Partners Names Two New Directors",
+  "body": "London-based asset manager Crescent Capital Partners has appointed James Anderson and David Thompson to its board, the firm announced. Anderson, who also sits on the board of US logistics firm Apex Logistics, brings two decades of operating experience. Thompson, a long-time UK fund executive, will chair the firm's risk committee.",
+  "published_date": "2022-05-14",
+  "source": "Reuters",
+  "url": "https://example.com/synthetic/n010",
+  "mentioned_entity_ids": ["C003", "P009", "P013", "C007"],
+  "sentiment": "neutral",
+  "risk_tags": ["corporate-governance"]
+}

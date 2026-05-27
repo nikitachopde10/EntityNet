@@ -1,0 +1,11 @@
+{
+  "id": "N001",
+  "title": "OFAC Adds Russian Energy Magnate Petrov to Sanctions List",
+  "body": "The U.S. Office of Foreign Assets Control today added Viktor Petrov, a long-time Russian energy magnate, to the Specially Designated Nationals (SDN) list under Executive Order 14024. Petrov's flagship holding company, Petrov Holdings, was simultaneously designated. Treasury officials cited Petrov's role in operating in the Russian Federation economy. The action freezes all property of Petrov and Petrov Holdings under US jurisdiction and prohibits US persons from transacting with them. Petrov's network includes stakes in several international holding structures.",
+  "published_date": "2022-04-06",
+  "source": "Treasury Wire",
+  "url": "https://example.com/synthetic/n001",
+  "mentioned_entity_ids": ["P001", "C001"],
+  "sentiment": "very_negative",
+  "risk_tags": ["sanctions", "ofac", "russia"]
+}

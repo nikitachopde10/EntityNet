@@ -1,0 +1,11 @@
+{
+  "id": "N009",
+  "title": "Falcon Industries JV Partner Has Family Ties to Entity-Listed Founder",
+  "body": "Falcon Industries' joint-venture partner, Robert Chen Ventures, is led by Robert Chen, who is a cousin of Chen Wei — the founder of Chen Tech Group, which was added to the US Entity List in 2020, according to corporate filings and family-registry data reviewed by the Wall Street Journal. The JV, signed in 2019, predates the Entity List action. Falcon said it is reviewing the relationship and emphasised that Robert Chen Ventures is not itself sanctioned or listed.",
+  "published_date": "2021-03-18",
+  "source": "Wall Street Journal",
+  "url": "https://example.com/synthetic/n009",
+  "mentioned_entity_ids": ["C006", "C017", "P011", "P005", "C016"],
+  "sentiment": "negative",
+  "risk_tags": ["counterparty-risk", "entity-list", "due-diligence"]
+}

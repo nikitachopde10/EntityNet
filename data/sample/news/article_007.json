@@ -1,0 +1,11 @@
+{
+  "id": "N007",
+  "title": "Phoenix Resources Reviews Gulf Trading Counterparty Relationship",
+  "body": "US-based Phoenix Resources said in a regulatory filing that it has retained outside counsel to review its trading relationship with Gulf Trading Ltd, a UAE-incorporated counterparty. The review follows reporting that Karim Hassan, a director of Gulf Trading, is a cousin of UK-sanctioned businessman Hassan Al-Mansoori. Phoenix Resources stressed that Gulf Trading is not itself sanctioned and that the relationship had been in good standing.",
+  "published_date": "2020-02-04",
+  "source": "Wall Street Journal",
+  "url": "https://example.com/synthetic/n007",
+  "mentioned_entity_ids": ["C020", "C011", "P015", "P003"],
+  "sentiment": "negative",
+  "risk_tags": ["due-diligence", "counterparty-risk", "uae"]
+}
