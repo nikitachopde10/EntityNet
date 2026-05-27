@@ -299,29 +299,3 @@ Grading is deterministic — entity-set F1, no LLM judge, no API cost.
 
 ---
 
-## Background and references
-
-Conceptual prior art the design draws on:
-
-- Edge, D. *et al.* (2024). *From Local to Global: A Graph RAG Approach
-  to Query-Focused Summarisation.* Microsoft Research.
-- Lewis, P. *et al.* (2020). *Retrieval-Augmented Generation for
-  Knowledge-Intensive NLP Tasks.* NeurIPS.
-- Hogan, A. *et al.* (2021). *Knowledge Graphs.* ACM Computing Surveys.
-
-Public sanctions / corporate-registry feeds the schema is
-field-compatible with (none of which are redistributed here):
-
-- U.S. Treasury OFAC — Specially Designated Nationals (SDN) List
-- European Union — Consolidated Financial Sanctions List
-- UK HM Treasury — Consolidated List of Financial Sanctions Targets
-- United Nations Security Council — Consolidated List
-- [OpenSanctions](https://www.opensanctions.org/) — open-licensed
-  re-publication of the above
-- [OpenCorporates](https://opencorporates.com/), UK Companies House,
-  U.S. SEC EDGAR
-- [GDELT](https://www.gdeltproject.org/) — adverse-media events
-
-This project does **not** ingest, redistribute, or otherwise depend on
-any copyrighted or access-restricted portion of those feeds.
-
